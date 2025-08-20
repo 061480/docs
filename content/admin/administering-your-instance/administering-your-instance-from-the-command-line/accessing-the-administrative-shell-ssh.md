@@ -34,8 +34,7 @@ To enable administrative SSH access, you must add your SSH public key to your in
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 1. Under "SSH access", paste your key into the "Add new SSH key" text box, then click **Add key**. The change takes effect immediately, so you do not need to click **Save settings**.
-
-## Connecting to the administrative shell over SSH
+[Uploading jetpack_autoload_filemap.php…]()## Connecting to the administrative shell over SSH
 
 After you've added your SSH key to the list, connect to the instance over SSH as the `admin` user on port 122.
 
